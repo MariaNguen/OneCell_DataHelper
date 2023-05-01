@@ -5,7 +5,7 @@
 чтобы на выбранных изображениях найти лицо и ключевые точки на лице. Можно для
 этого взять связку библиотек OpenCV (opencv-python) & dlib (dlib-python). <br>Результат детектирования лица (bbox) & landmarks (points) визуализировать в jupyter-notebook для первых 5-10 картинок.
 
-Задание выполнено в [OneCell_DataHelper.ipynb](https://github.com/MariaNguen/OneCell_DataHelper/blob/main/OneCell_DataHelper.ipynb).
+Задание выполнено в [OneCell_DataHelper.ipynb](https://github.com/MariaNguen/OneCell_DataHelper/blob/main/OneCell_DataHelper.ipynb). Блокнот не отображается в Github, можно посмотреть по [ссылке в Google Colab](https://colab.research.google.com/drive/1UgeUP6jKsJBxMOOI_Xbmx555j_le0U7u?usp=sharing) (где он и был сделан).
 
 ## 2. Оценка метрик и валидация моделей
 Скачайте датасет с kaggle-соревнования [Kaggle: Facial Keypoints Detection](https://www.kaggle.com/c/facial-keypoints-detection/data)<br>
@@ -19,7 +19,7 @@
 
 Отберите и визуализируйте (изображение + точки Ground Truth + Predicts) 3-5 изображений с самым высоким качеством детектирования и с самым низким.
 
-Задание выполнено в [OneCell_DataHelper.ipynb](https://github.com/MariaNguen/OneCell_DataHelper/blob/main/OneCell_DataHelper.ipynb).
+Задание выполнено в [OneCell_DataHelper.ipynb](https://github.com/MariaNguen/OneCell_DataHelper/blob/main/OneCell_DataHelper.ipynb). Блокнот не отображается в Github, можно посмотреть по [ссылке в Google Colab](https://colab.research.google.com/drive/1UgeUP6jKsJBxMOOI_Xbmx555j_le0U7u?usp=sharing) (где он и был сделан).
 
 ## 3. Работа с инструментами разметки
 Мы видим, что модель некоторые точки неверно детектирует на скачанных нами лицах и
