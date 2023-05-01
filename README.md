@@ -34,4 +34,4 @@
 - замерьте скорость разметки и оцените время разметки с нуля и время доразметки
 результатов работы модели
 
-Задание выполнено в [OneCell_DataHelper.ipynb](https://github.com/MariaNguen/OneCell_DataHelper/blob/main/OneCell_DataHelper_Task3.ipynb).
+Задание выполнено в [OneCell_DataHelper_Task3.ipynb](https://github.com/MariaNguen/OneCell_DataHelper/blob/main/OneCell_DataHelper_Task3.ipynb).
